@@ -1,5 +1,5 @@
 # BSDS-1A-Assignment-01-Library Management System
-Author: Amna Akhtar Nawabi
+Author: Amna Akhtar Nawabi <br>
 Library Management System 
 > Description:
 The Library Management System is a Java project designed to manage a library's inventory of books and users. It allows librarians to add books and users, display available books, borrow books, return books, and exit the system.
